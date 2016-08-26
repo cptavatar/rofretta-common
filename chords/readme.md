@@ -14,5 +14,6 @@ The goal of this spec is to simplify manually building up a library of chord voi
 6. Sections are seperated by one space.
 
 Example - standard C Major open chord
+
 032010 x32x1x C maj
  
